@@ -1,0 +1,6 @@
+com\example\demo\service\ITraineeService.class
+com\example\demo\entities\Trainee.class
+com\example\demo\service\TraineeServiceImpl.class
+com\example\demo\TraineeApiApplication.class
+com\example\demo\controller\TraineeController.class
+com\example\demo\repositories\ITraineeRepo.class
